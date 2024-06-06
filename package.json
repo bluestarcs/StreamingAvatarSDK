@@ -5,7 +5,7 @@
   "author": "OpenAPI-Generator",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StreamingAvatarSDK/StreamingAvatarSDK.git"
+    "url": "git+https://github.com/bluestarcs/StreamingAvatarSDK.git"
   },
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
