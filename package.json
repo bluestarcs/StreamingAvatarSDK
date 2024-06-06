@@ -1,11 +1,11 @@
 {
-  "name": "@heygen/streaming-avatar",
+  "name": "@bluestarcs/StreamingAvatarSDK",
   "version": "1.0.6",
   "description": "OpenAPI client for streaming-avatar",
   "author": "OpenAPI-Generator",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HeyGen-Official/StreamingAvatarSDK.git"
+    "url": "git+https://github.com/StreamingAvatarSDK/StreamingAvatarSDK.git"
   },
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
